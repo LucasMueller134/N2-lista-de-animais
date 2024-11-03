@@ -11,3 +11,6 @@ CMakeLists.txt linguist-vendored
 *.hh linguist-vendored
 *.cxx linguist-vendored
 *.hxx linguist-vendored
+*.kt linguist-vendored
+*.kts linguist-vendored
+
